@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello World, this is christina
+=======
+HELLO MY NAME IS BRANDON CASTILLO. I AM TIRED 
+>>>>>>> brandonbranch
